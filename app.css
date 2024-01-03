@@ -1,0 +1,43 @@
+.container
+{
+    height: 500px;
+    width: 600px;
+    overflow: auto;
+    margin: auto;
+    border: 2px solid hsl(0, 0%, 0%);
+    background-color: #bcd56d;
+}
+.box
+{
+    margin-top: 5px;
+    height: 60px;
+    width: 60px;
+    background-color: #6dd5c4;
+    border-radius: 4px;
+    border: 1px solid 6dd5c4;
+    position: static;
+    vertical-align: top;
+}
+.game1
+{
+    width:190px;
+    margin: auto; 
+}
+h1
+{
+    text-align: center;
+    color: red;
+}
+.b1
+{
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    background-color: #6d6fd5;
+}
+.game2
+{
+    width:208px;
+    margin: auto;
+    padding: 20px;
+}
